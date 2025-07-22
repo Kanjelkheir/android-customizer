@@ -1,3 +1,5 @@
+_**⚠️ WIP ⚠️**_
+
 # AndroidCustomizer Svelte App
 
 This is a Svelte implementation of the AndroidCustomizer website, a platform for Android device customization resources.
