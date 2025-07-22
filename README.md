@@ -17,6 +17,10 @@ AndroidCustomizer is a one-stop solution for Android customization. The platform
 - Troubleshooting tools and resources
 - Update notifications for new ROMs and tools
 
+## Netlify Status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/955f13f5-90a3-4b8e-8d43-e47b1ed1e3d6/deploy-status)](https://app.netlify.com/projects/droidify/deploys)
+
 ## Getting Started
 
 ### Prerequisites
