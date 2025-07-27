@@ -33,10 +33,11 @@
     ];
 
     const socialLinks = [
-        { icon: "fab fa-facebook-f", url: "#", label: "Facebook" },
-        { icon: "fab fa-twitter", url: "#", label: "Twitter" },
-        { icon: "fab fa-github", url: "#", label: "GitHub" },
-        { icon: "fab fa-telegram", url: "#", label: "Telegram" },
+        { icon: "fab fa-facebook-f", url: "https://www.facebook.com/eliekh05", label: "Facebook" },
+        { icon: "fab fa-x", url: "https://x.com/eliekh05", label: "Twitter" },
+        { icon: "fab fa-github", url: "https://github.com/eliekh05/android-customizer", label: "GitHub" },
+        { icon: "fab fa-telegram", url: "https://t.me/eliekh05", label: "Telegram" },
+        { icon: "fab fa-whatsapp", url: "https://wa.me/+96179140038", label: "WhatsApp" }
     ];
 </script>
 
