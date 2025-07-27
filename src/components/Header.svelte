@@ -20,12 +20,12 @@
     </div>
     <nav>
       <ul>
-        <li><a href="/home" on:click={smoothScrollTo}>Home</a></li>
-        <li><a href="/features" on:click={smoothScrollTo}>Features</a></li>
-        <li><a href="/devices" on:click={smoothScrollTo}>Devices</a></li>
-        <li><a href="/guide" on:click={smoothScrollTo}>Guides</a></li>
-        <li><a href="/forum" on:click={smoothScrollTo}>Community</a></li>
-        <li><a href="/contact" on:click={smoothScrollTo}>Contact</a></li>
+        <li><a href="https://droidify.netlify.app">Home</a></li>
+        <li><a href="https://droidify.netlify.app/features">Features</a></li>
+        <li><a href="https://droidify.netlify.app/devices">Devices</a></li>
+        <li><a href="https://droidify.netlify.app/guide">Guides</a></li>
+        <li><a href="https://droidify.netlify.app/forum">Community</a></li>
+        <li><a href="https://droidify.netlify.app/contact">Contact</a></li>
       </ul>
     </nav>
   </div>
