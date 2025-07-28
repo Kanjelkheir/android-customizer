@@ -1,0 +1,25 @@
+{
+  "id": "Droidify",
+  "name": "Droidify",
+  "short_name": "Droidify",
+  "description": "A comprehensive platform that simplifies Android customization. Find custom ROMs, recovery images, and tools for any device in one place. Features device-specific guides, direct downloads, and a user-friendly interface to transform your Android experience in minutes, not days.",
+  "start_url": "/",
+  "scope": "/",
+  "lang": "en-US",
+  "display": "standalone",
+  "background_color": "#27F5C5",
+  "theme_color": "#4CAF50",
+  "dir": "auto",
+  "orientation": "any",
+  "categories": [
+    "utilities"
+  ],
+  "icons": [
+    {
+      "purpose": "any",
+      "sizes": "512x512",
+      "src": "icon.png",
+      "type": "image/png"
+    }
+  ]
+}
