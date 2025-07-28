@@ -1,14 +1,13 @@
 const CACHE_NAME = 'android-customizer-cache-v1';
 const urlsToCache = [
   '/',
-  '/index.html',
-  '/global.css',
+  'index.html',
+  'global.css',
   '/build/bundle.css',
   '/build/bundle.js',
-  '/favicon.ico',
-  '/icons/icon-192.png',
-  '/icons/icon-512.png',
-  '/manifest.json'
+  'favicon-32x32.ico',
+  'icons/icon-192.png',
+  'icons/icon-512.png',
 ];
 
 // Install event: cache all app shell files
