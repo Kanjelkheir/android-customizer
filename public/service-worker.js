@@ -5,7 +5,7 @@ const urlsToCache = [
   '/global.css',
   '/build/bundle.css',
   '/build/bundle.js',
-  '/favicon.png',
+  '/favicon.ico',
   '/icons/icon-192.png',
   '/icons/icon-512.png',
   '/manifest.json'
