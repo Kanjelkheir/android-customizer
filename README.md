@@ -57,30 +57,6 @@ AndroidCustomizer is a one-stop solution for Android customization. The platform
    yarn build
    ```
 
-## Project Structure
-
-```
-AndroidSvelte/
-├── public/
-│   ├── build/       # Generated bundle files
-│   ├── favicon.png  # Site favicon
-│   ├── global.css   # Global CSS styles
-│   └── index.html   # HTML entry point
-├── src/
-│   ├── components/  # Svelte components
-│   │   ├── Header.svelte
-│   │   ├── Hero.svelte
-│   │   ├── Features.svelte
-│   │   ├── HowItWorks.svelte
-│   │   ├── PopularDevices.svelte
-│   │   ├── CTA.svelte
-│   │   └── Footer.svelte
-│   ├── App.svelte   # Main app component
-│   └── main.js      # JavaScript entry point
-├── package.json     # Project dependencies and scripts
-└── rollup.config.js # Rollup configuration
-```
-
 ## Technologies Used
 
 - [Svelte](https://svelte.dev/) - Frontend framework
