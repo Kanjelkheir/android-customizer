@@ -3,7 +3,7 @@
         {
             title: "Resources",
             links: [
-                { text: "Custom ROMs", url: "#" },
+                { text: "Custom ROMs", url: "/Custom_Rom" },
                 { text: "Recovery Images", url: "#" },
                 { text: "Kernels", url: "#" },
                 { text: "Root Tools", url: "#" },
