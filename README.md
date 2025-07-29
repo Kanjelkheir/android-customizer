@@ -30,8 +30,8 @@ AndroidCustomizer is a one-stop solution for Android customization. The platform
 
 1. Clone this repository
    ```bash
-   git clone <repository-url>
-   cd AndroidSvelte
+   git clone https://github.com/eliekh05/android-customizer.git
+   cd android-customizer
    ```
 
 2. Install dependencies
