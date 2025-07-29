@@ -3,19 +3,19 @@
       {
           title: "Resources",
           links: [
-              { text: "Custom ROMs", url: "https://droidify.netlify.app/Custom Roms" },
-              { text: "Recovery Images", url: "https://droidify.netlify.app/Recovery Images" },
+              { text: "Custom ROMs", url: "https://droidify.netlify.app/Custom_Roms" },
+              { text: "Recovery Images", url: "https://droidify.netlify.app/Recovery_Images" },
               { text: "Kernels", url: "https://droidify.netlify.app/Kernels" },
-              { text: "Root Tools", url: "https://droidify.netlify.app/Root Tools" },
-              { text: "Mods & Tweaks", url: "https://droidify.netlify.app/Mods & Tweaks" },
+              { text: "Root Tools", url: "https://droidify.netlify.app/Root_Tools" },
+              { text: "Mods & Tweaks", url: "https://droidify.netlify.app/Mods_&_Tweaks" },
           ],
       },
       {
           title: "Guides",
           links: [
-              { text: "Rooting Guide", url: "https://droidify.netlify.app/Rooting Guide" },
-              { text: "Custom ROM Installation", url: "https://droidify.netlify.app/Rooting Guide" },
-              { text: "Backup & Restore", url: "https://droidify.netlify.app/Backup & Restore" },
+              { text: "Rooting Guide", url: "https://droidify.netlify.app/Rooting_Guide" },
+              { text: "Custom ROM Installation", url: "https://droidify.netlify.app/Custom_ROM_Installation" },
+              { text: "Backup & Restore", url: "https://droidify.netlify.app/Backup_&_Restore" },
               { text: "Troubleshooting", url: "https://droidify.netlify.app/Troubleshooting" },
               { text: "FAQ", url: "https://droidify.netlify.app/FAQ" },
           ],
@@ -23,11 +23,11 @@
       {
           title: "Company",
           links: [
-              { text: "About Us", url: "https://droidify.netlify.app/About Us" },
-              { text: "Our Team", url: "https://droidify.netlify.app/Our Team" },
-              { text: "Privacy Policy", url: "https://droidify.netlify.app/Privacy Policy" },
-              { text: "Terms of Service", url: "https://droidify.netlify.app/Terms of Service" },
-              { text: "Contact Us", url: "https://droidify.netlify.app/Contact Us" },
+              { text: "About Us", url: "https://droidify.netlify.app/About_Us" },
+              { text: "Our Team", url: "https://droidify.netlify.app/Our_Team" },
+              { text: "Privacy Policy", url: "https://droidify.netlify.app/Privacy_Policy" },
+              { text: "Terms of Service", url: "https://droidify.netlify.app/Terms_of_Service" },
+              { text: "Contact Us", url: "https://droidify.netlify.app/Contact_Us" },
           ],
       },
   ];
