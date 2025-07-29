@@ -16,7 +16,7 @@
     <h1>All Android Custom ROMs in One Place</h1>
     <p>Stop wasting days searching for custom firmware files. Our platform provides all the resources, tools, and guides you need for any Android device - ready to use in minutes, not days.</p>
     <div class="search-bar">
-      <input type="text" bind:value={searchInput} placeholder="Enter your device model (e.g., Samsung Galaxy S21, SM-G991B)">
+      <input type="text" bind:value={searchInput} placeholder="Enter your device model">
       <button on:click={handleSearch}><i class="fas fa-search"></i> Find Resources</button>
     </div>
   </div>

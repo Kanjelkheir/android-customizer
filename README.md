@@ -1,5 +1,3 @@
-_**⚠️ WIP ⚠️**_
-
 # AndroidCustomizer Svelte App
 
 This is a Svelte implementation of the AndroidCustomizer website, a platform for Android device customization resources.
@@ -32,8 +30,8 @@ AndroidCustomizer is a one-stop solution for Android customization. The platform
 
 1. Clone this repository
    ```bash
-   git clone <repository-url>
-   cd AndroidSvelte
+   git clone https://github.com/eliekh05/android-customizer.git
+   cd android-customizer
    ```
 
 2. Install dependencies
@@ -56,30 +54,6 @@ AndroidCustomizer is a one-stop solution for Android customization. The platform
    # or
    yarn build
    ```
-
-## Project Structure
-
-```
-AndroidSvelte/
-├── public/
-│   ├── build/       # Generated bundle files
-│   ├── favicon.png  # Site favicon
-│   ├── global.css   # Global CSS styles
-│   └── index.html   # HTML entry point
-├── src/
-│   ├── components/  # Svelte components
-│   │   ├── Header.svelte
-│   │   ├── Hero.svelte
-│   │   ├── Features.svelte
-│   │   ├── HowItWorks.svelte
-│   │   ├── PopularDevices.svelte
-│   │   ├── CTA.svelte
-│   │   └── Footer.svelte
-│   ├── App.svelte   # Main app component
-│   └── main.js      # JavaScript entry point
-├── package.json     # Project dependencies and scripts
-└── rollup.config.js # Rollup configuration
-```
 
 ## Technologies Used
 
