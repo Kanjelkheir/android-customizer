@@ -7,7 +7,7 @@
               { text: "Recovery Images", url: "https://droidify.netlify.app/Recovery_Images" },
               { text: "Kernels", url: "https://droidify.netlify.app/Kernels" },
               { text: "Root Tools", url: "https://droidify.netlify.app/Root_Tools" },
-              { text: "Mods & Tweaks", url: "https://droidify.netlify.app/Mods_&_Tweaks" },
+              { text: "Mods & Tweaks", url: "https://droidify.netlify.app/Mods_and_Tweaks" },
           ],
       },
       {
@@ -15,7 +15,7 @@
           links: [
               { text: "Rooting Guide", url: "https://droidify.netlify.app/Rooting_Guide" },
               { text: "Custom ROM Installation", url: "https://droidify.netlify.app/Custom_ROM_Installation" },
-              { text: "Backup & Restore", url: "https://droidify.netlify.app/Backup_&_Restore" },
+              { text: "Backup & Restore", url: "https://droidify.netlify.app/Backup_and_Restore" },
               { text: "Troubleshooting", url: "https://droidify.netlify.app/Troubleshooting" },
               { text: "FAQ", url: "https://droidify.netlify.app/FAQ" },
           ],
